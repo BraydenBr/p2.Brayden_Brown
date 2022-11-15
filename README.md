@@ -15,16 +15,17 @@ Include the health-related information in your sketch: sleep, weight, exercises,
 <br />* Implement your Sketch in Processing or p5.js
 
 Implement the general information : personalized calendar (from a csv or json file), news feed (from a csv or json file), current clock, and local weather (from a file or api).
+I implemented personalized calendar, news feed with json file, local weather with api, and clock 
 
 Implement the health-related information in your sketch (select one of these): sleep, weight, exercises, and mirror time (from a csv or json file).
+I implemented the weight with a json file
 
-
-<br />
-![Screenshot (17)](https://user-images.githubusercontent.com/61167226/194359361-4204d155-5be4-4744-bcc7-83f8e7caaf86.png)
 
 <br /><br />
-**Now, imagine that you can have a touch screen on the elevator. To get a A, you need to:**
-<br />Design a touchscreen. Mine will be the size of the buttons.
-<br /> My design also features a foor pedal for those who cant use their hands at the moment
-![Screenshot (15)](https://user-images.githubusercontent.com/61167226/194359722-44df3aa4-1ca5-45b0-924d-40c03efd1ca1.png)
-<br /> <img src="https://user-images.githubusercontent.com/61167226/194360312-1d2fdd06-e893-4101-b49f-ccbf6d7c4ef2.gif" width="450">
+**To get a A, you need to:**
+<br />Implement one of the advanced features
+I implemented drag and drop and resizing (custumize screen)
+
+Provide your github report page and 2-minute presentation video
+
+Please pay attention on the overal design and layout, and usability of your final interface
