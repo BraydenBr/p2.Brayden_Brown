@@ -11,16 +11,13 @@ Include the general information in your sketch: personalized calendar, news feed
 
 Include the health-related information in your sketch: sleep, weight, exercises, and mirror time
 
-<br /> It is good because it is a simple design. Each button has a specific place that does not seem out of place.
-<br />It is bad because you have the alarm right under the floor buttons and a whole button slot is taken up for a light
-
 <br /><br />**To get a B, you need to:**
-<br />* You use an elevator to go up floors by pressing buttons. Sometimes we use an elevator to haul large things that we can not bring up with stairs.
-Having good button placement is key because it helps users who are in a hurry from pressing the wrong button.
+<br />* Implement your Sketch in Processing or p5.js
 
-<br />* The most common sequence is once you get into an elevator you push your floor button and sometimes press the close door button.
-<br />* The elevator supports the user by displaying numbers on the buttons indicating floor level and using the start button symbolos for the door and alarm
-<br />* Elevators typically provide feedback to the user by changing the color of a button when pressed
+Implement the general information : personalized calendar (from a csv or json file), news feed (from a csv or json file), current clock, and local weather (from a file or api).
+
+Implement the health-related information in your sketch (select one of these): sleep, weight, exercises, and mirror time (from a csv or json file).
+
 
 <br />
 ![Screenshot (17)](https://user-images.githubusercontent.com/61167226/194359361-4204d155-5be4-4744-bcc7-83f8e7caaf86.png)
