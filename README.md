@@ -2,11 +2,11 @@
 
 **To get a C, you need to:**
 
-<img src="https://user-images.githubusercontent.com/61167226/194354750-3bdeec16-d5d7-4024-8798-f873ddcc35f5.png" width="175">
 
-![IMG_6537_MOV_AdobeExpress](https://user-images.githubusercontent.com/61167226/194354462-e5c4af57-bf4b-42cd-9e3b-d0eb62d768a1.gif)
+
+
 <br />* Provide the Sketch of your interface
-
+![p2 Brayden Brown](https://user-images.githubusercontent.com/61167226/202030621-392fc301-622a-4a17-a3ea-5faf1573c33b.png)
 Include the general information in your sketch: personalized calendar, news feed, text messages, social feed items, clock, and weather.
 
 Include the health-related information in your sketch: sleep, weight, exercises, and mirror time
